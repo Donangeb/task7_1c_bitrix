@@ -70,7 +70,6 @@ $arComponentParameters = [
             'REFRESH' => 'Y',
             'ADDITIONAL_VALUES' => 'Y',
         ],
-        "FIELD_CODE" => CIBlockParameters::GetFieldCode("Поля", "FILTER"),
         'CACHE_TIME' => [
             'DEFAULT' => 3600,
         ],
